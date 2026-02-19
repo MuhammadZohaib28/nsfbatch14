@@ -10,7 +10,7 @@
 
 }
 
-body{
+body {
     padding: 2rem;
 }
 
@@ -130,11 +130,11 @@ input {
 
     color: whitesmoke;
 
-    
+
 }
 
 
-.btn-container{
+.btn-container {
     display: flex;
     justify-content: end;
     align-items: center;
