@@ -65,3 +65,6 @@ let studentData = [
         bloodGroup: "B+"
     }
 ]
+
+
+console.log(studentData[0].fullName)
